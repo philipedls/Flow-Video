@@ -71,6 +71,7 @@ $ python3 automation_video_maker.py
 # Como funciona?
 
 O programa se comporta da seguinte maneira:
+
  * Procura o termo de pesquisa e o prefixo na Wikipedia;
  * Pega as primeiras frases do resumo da Wikipedia que corresponde ao termo de pesquisa;
  * Remove informações desnecessárias;
@@ -83,6 +84,7 @@ O programa se comporta da seguinte maneira:
 NOTA: Todos os arquivos (imagens, vídeos e legendas) são salvos na pasta do usuário, em um diretório com o nome do termo de pesquisa.
 
 Exemplo: [final_video.mp4](examples/final_video.mp4)
+
 
 ## Bugs para corrigir:
  * Ter imagens melhores.             #Prentenção de usar o imageMagick para melhorar a qualidade das images
